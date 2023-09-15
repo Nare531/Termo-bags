@@ -1,0 +1,287 @@
+body{
+  margin: 0;
+  padding: 0;
+  height: 3000px;
+  width: 2000px;
+
+  
+   
+}
+
+.bar-container{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  position: fixed;
+  top: 0;
+  width: 1580px;
+  height: 50px;
+  background-color: rgb(240, 244, 244);
+
+
+}
+
+
+.logo{
+  font-family: Roboto, Arial;
+  font-weight: 300;
+  font-size: 23px;
+  line-height: 30px;
+
+
+}
+
+.inside-container{
+  width: 600px;
+  display: flex;
+  justify-content: space-between;
+  
+
+}
+.our-assortment,
+.collaboration,
+.feedback,
+.introduction,
+.language
+{
+  font-family: Arial;
+  font-weight: 400;
+  font-size: 14px;
+  cursor: pointer;
+  
+}
+
+.more {
+  width: 10px;
+  height: 6px;
+  object-fit: cover;
+  border: 1px;
+  color: rgba(0, 0, 0, 1);
+}
+
+
+.right-section{
+  display: flex;
+  flex-direction: column;
+}
+
+.theme{
+  font-family: Arial;
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 40px;
+  letter-spacing: 0.82px;
+color:rgba(42, 69, 101, 1) ;  
+}
+
+.h1-header{
+  width: 900px;
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+.h3-header{
+  width: 850px;
+  text-align: center;
+  
+
+}
+
+
+.small-theme{
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 15px;
+  color:rgba(0, 0, 0, 1);
+}
+
+.more-info{
+  width: 150px;
+  text-align: center;
+  border-radius: 3px;
+  padding: 6px 30px 6px 30px;
+  font-size: 12px;
+  color: rgba(0, 0, 0, 1);
+  border: 1px solid ;
+  text-decoration: none;
+  margin-left: 195px;
+  margin-top: 20px;
+  
+  
+}
+
+.the-main-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width:1200px;
+
+}
+.termo-bags-div{
+  width: 500px;
+  height: 600px;
+  object-fit: cover;
+}
+
+
+
+.certifications{
+ 
+  width: 1600px;
+  height: 200px;
+  margin-left: -100px;
+
+}
+
+.certifications-images{
+  margin-top: 100px;
+  width: 100% ;
+  height: 100px;
+  object-fit: cover;
+  font-size: 30px;
+
+  
+}
+
+
+.about-us{
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 25px;
+  margin-top: 100px;
+  margin-left: 150px;
+}
+.sections{
+  width:400px ;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+  margin-left: 150px;
+ 
+
+  
+
+}
+.offers{
+  font-size: 15px;
+  line-height: 20px;
+
+}
+.the-main-dsc{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 1550px;
+  margin-bottom: 100px;
+}
+
+
+.termo-dsc{
+
+  display: flex;
+  flex-direction: column;
+  justify-self:center;
+  padding: 10px 20px 10px 20px;
+  margin-top: 50px;
+  margin-left: 10px;
+  border: 1px solid rgb(170, 166, 166);
+  border-radius: 5px;
+ 
+ 
+}
+
+
+
+.termo-bg{
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.bag{
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 10px;
+  margin-bottom: 10px;
+}
+
+.sizes{
+  font-size: 15px;
+  line-height: 10px;
+  
+}
+.price-info{
+  width: 230px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  align-items: center;
+  padding: 10px;
+
+}
+
+.price{
+  font-weight: 700;
+  font-size: 15px;
+}
+.info{
+  text-align: center;
+  width: 110px;
+  height: 30px;
+  line-height:30px ;
+  text-align: 15px;
+  padding: 3px 10px 3px 10px;
+  background-color: rgb(46, 46, 46);
+  text-decoration: none;
+  color: white;
+  border-radius: 6px;
+}
+
+
+.upper-section{
+ 
+  background-color: rgba(42, 69, 101, 1);
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+width: 1800px;
+  
+  
+
+}
+
+.truck{
+  height: 60px;
+  width: 60px;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+
+
+
+.delivery{
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+  
+ 
+}
+
+.fast-delivery{
+  color: wheat;
+  width: 800px;
+  text-align: center;
+  font-size: 15px;
+  font-weight: 400;
+}
+
+
+.thoroughly-info{
+  display: flex;
+
+}
+
